@@ -1,4 +1,6 @@
-# ARMirror
+# AR Mirror
+
+![AR Mirror Logo](./Assets/Resources/2D/mipmap-xxxhdpi/ic_launcher.png)
 
 AR Mirror allows you to place a virtual mirror in which you can see yourself in your environment using ARCore.
 
